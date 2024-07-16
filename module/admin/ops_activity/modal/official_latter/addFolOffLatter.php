@@ -1,0 +1,1 @@
+<input type="text" class="swal2-input form-add" name="folderName" id="folderName" placeholder="Create Folder">
